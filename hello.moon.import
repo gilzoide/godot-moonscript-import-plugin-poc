@@ -1,0 +1,13 @@
+[remap]
+
+importer="moonscript_import_plugin"
+type="PluginScript"
+path="res://.import/hello.moon-7401af153131c33b4ce59c0112486fa0.lua"
+
+[deps]
+
+source_file="res://hello.moon"
+dest_files=[ "res://.import/hello.moon-7401af153131c33b4ce59c0112486fa0.lua" ]
+
+[params]
+
