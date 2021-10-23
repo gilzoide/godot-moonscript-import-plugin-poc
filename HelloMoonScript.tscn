@@ -4,6 +4,7 @@
 
 [node name="TestMoonScript" type="Node"]
 script = ExtResource( 1 )
+title_text = "Hello world from MoonScript!"
 
 [node name="Label" type="Label" parent="."]
 anchor_right = 1.0
